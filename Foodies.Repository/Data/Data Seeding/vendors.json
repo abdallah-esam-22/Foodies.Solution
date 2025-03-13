@@ -1,0 +1,26 @@
+[
+    {
+      "Name": "Al-Baraka",
+      "PictureUrl": "images/products/sb-ang2.png",
+      "Address": "Ismailia",
+      "Rating": 4.2
+    },
+    {
+      "Name": "Sami",
+      "PictureUrl": "images/products/sb-ang2.png",
+      "Address": "Cairo",
+      "Rating": 4.8
+    },
+    {
+      "Name": "Kebab Helmi",
+      "PictureUrl": "images/products/sb-ang2.png",
+      "Address": "Ismailia",
+      "Rating": 3.6
+    },
+    {
+      "Name": "BLaban",
+      "PictureUrl": "images/products/sb-ang2.png",
+      "Address": "Cairo",
+      "Rating": 4
+    }
+]

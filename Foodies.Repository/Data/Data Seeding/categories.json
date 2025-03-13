@@ -1,0 +1,34 @@
+[
+    {
+      "Name": "Frappuccino",
+      "PictureUrl": "images/products/sb-ang1.png"
+    },
+    {
+      "Name": "Latte",
+      "PictureUrl": "images/products/sb-ang1.png"
+    },
+    {
+      "Name": "Mocha",
+      "PictureUrl": "images/products/sb-ang1.png"
+    },
+    {
+      "Name": "Macchiato",
+      "PictureUrl": "images/products/sb-ang1.png"
+    },
+    {
+      "Name": "Matcha",
+      "PictureUrl": "images/products/sb-ang1.png"
+    },
+    {
+      "Name": "Cake",
+      "PictureUrl": "images/products/sb-ang1.png"
+    },
+    {
+      "Name": "Donuts",
+      "PictureUrl": "images/products/sb-ang1.png"
+    },
+    {
+      "Name": "Salad",
+      "PictureUrl": "images/products/sb-ang1.png"
+    }
+]
